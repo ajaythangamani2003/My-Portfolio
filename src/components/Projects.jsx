@@ -23,7 +23,7 @@ const Projects = () => {
       description:
         "Fully animated personal portfolio with particles, neon UI & 3D tilt.",
       image: "/portfolio.png",
-      github: "https://github.com/ajaythangamani2003",
+      github: "https://github.com/ajaythangamani2003/My-Portfolio.git",
       tech: ["React", "AOS", "VanillaTilt", "CSS"],
     },
     {
